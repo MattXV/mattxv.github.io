@@ -11,7 +11,7 @@ redirect_from:
 <!-- Use it like any other HTML element -->
 
 <div class="video-container">
-  <video controls loading="lazy">
+  <video controls loading="lazy" muted>
     <source src="assets/video/sizzle.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
