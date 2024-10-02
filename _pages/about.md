@@ -10,12 +10,16 @@ redirect_from:
 
 <!-- Use it like any other HTML element -->
 
-<video width="1280" height="720" controls autoplay>
-  <source src="assets/video/sizzle.mp4" type="video/mp4">
-</video>
+<div class="video-container">
+  <video controls loading="lazy">
+    <source src="assets/video/sizzle.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
-## Hi, I am
-A lecturer in games and part-time PhD student working on sound rendering, computer graphics, and vision under the supervision of [Dr Carlo Harvey](https://www.bcu.ac.uk/computing/about-us/our-staff/carlo-harvey) and [Dr Maite Frutos](https://www.bcu.ac.uk/computing/about-us/our-staff/dr-maite-frutos-pascual), and the external help of [Dr Alan Dolhasz](https://www.linkedin.com/in/dolhasz/?originalSubdomain=uk).
+
+## Hi
+I am a lecturer in games and part-time PhD student working on sound rendering, computer graphics, and vision under the supervision of [Dr Carlo Harvey](https://www.bcu.ac.uk/computing/about-us/our-staff/carlo-harvey) and [Dr Maite Frutos](https://www.bcu.ac.uk/computing/about-us/our-staff/dr-maite-frutos-pascual), and the external help of [Dr Alan Dolhasz](https://www.linkedin.com/in/dolhasz/?originalSubdomain=uk).
 
 ## What I'm up to
 I currently teach a range of modules within BSc Video Game Development at Birmingham City University. 
