@@ -12,6 +12,15 @@ redirect_from:
 News
 ======
 
+I gave a presentation about my research at the [UK Acoustics Network (UKAN)](https://acoustics.ac.uk/). It is available on the UKAN YouTube channel [here](https://youtu.be/xM7XXmOCj78?si=45TSQiwMVpeHkzdd&t=2510).
+
+<div class="page-container">
+  <div class="image-container">
+      <img src="{{ base_path }}/images/news-ukan.jpg" alt="Me presenting at UKAN." >
+      <!-- Add more images as needed -->
+  </div>
+</div>
+
 I won the Sensory Category of the ImmerseUK Awards. The series of event organised as part of the Awards Scheme has been incredible for my career and personal development. Read more about this [here](https://www.immerseuk.org/news/immerse-awards-2023-winners-announced/).
 
 <div class="page-container">

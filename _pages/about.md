@@ -9,6 +9,11 @@ redirect_from:
 ---
 
 <!-- Use it like any other HTML element -->
+
+<video width="1280" height="720" controls autoplay>
+  <source src="assets/video/sizzle.mp4" type="video/mp4">
+</video>
+
 ## Hi, I am
 A lecturer in games and part-time PhD student working on sound rendering, computer graphics, and vision under the supervision of [Dr Carlo Harvey](https://www.bcu.ac.uk/computing/about-us/our-staff/carlo-harvey) and [Dr Maite Frutos](https://www.bcu.ac.uk/computing/about-us/our-staff/dr-maite-frutos-pascual), and the external help of [Dr Alan Dolhasz](https://www.linkedin.com/in/dolhasz/?originalSubdomain=uk).
 
