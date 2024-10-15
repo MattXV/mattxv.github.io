@@ -11,13 +11,13 @@ redirect_from:
 <!-- Use it like any other HTML element -->
 
 <div class="video-container">
-  <video controls loading="lazy" muted>
+  <video controls loading="lazy">
     <source src="assets/video/sizzle.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
-## Portfolio (WIP --- bear with me :coffee:)
+## Portfolio (WIP)
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}

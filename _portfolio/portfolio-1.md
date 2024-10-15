@@ -10,12 +10,19 @@ collection: portfolio
 - The aim was to simulate soundfields of scanned spaces, approximating their physical counterparts
 - I built a ray tracer to approximate reverb, calculating absorption in surfaces
 
+![Ray Tracing Diagram](../../images/rt-diagram.png)
+
 --- 
 
 - I compared it to existing renderers, like the wave-based Project Acoustics
 
-![Ray Tracer](../../images/DMT_Acoustics.png)
+
+![Project Acoustics](../../images/DMT_Acoustics.png)
+
 
 - And compared it against real soundfields by taking measurements
 
-![Ray Tracer](../../images/real_synthetic_rir.jpg)
+![Real Soundfield Measurement](../../images/soundfield-measurement.jpg)
+
+![Comparison of Rendering Techniques](../../images/real_synthetic_rir.jpg)
+
