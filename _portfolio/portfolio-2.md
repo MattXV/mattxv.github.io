@@ -7,3 +7,7 @@ collection: portfolio
 ![Sound Rendering pipeline diagram](../../images/pipeline-diagram.jpg)
 
 Programmed Acoustic Material Recognition Systems 
+
+![Sound Rendering pipeline diagram](../../images/cst_isoview.png)
+
+![Sound Rendering pipeline diagram](../../images/CST-208-mats.png)
