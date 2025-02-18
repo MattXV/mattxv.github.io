@@ -8,24 +8,24 @@ collection: portfolio
 
 ---
 
-- Developed a Neural Network for automatically assigning materials to scene geometry
+- Developd material recognition system based on spatial mapping and scene understanding.
 
 ![Material Tagging System](../../images/applied-segmentation.jpg)
 
-- This network works by inferring from framebuffers and projecting materials into the scene
+- The system applies to real-time platforms by inferring from framebuffers and projecting materials into a live virtual environment.
 
 ![Segmentation Network](../../images/segmentation.jpg)
 
 --- 
 
-- I developed an extension that works directly on texture data
+- Developed an alternative system that works directly on texture data by leveraging texture superpixels.
 
 ![Material Classifier](../../images/patch-classifier.jpg)
 
-- This doesn't use framebuffers, and is trained on reconstructed environments
+- The system trains on virtual environments reconstructed from real space.
 
 ![Environment Reconstruction](../../images/cst_isoview.png)
 
-- Allowing automatic tagging of materials in scanned geometry
+- These methods allow automatic material recognition for acoustic rendering tasks.
 
 ![Environment Reconstruction with Materials](../../images/CST-208-mats.png)
