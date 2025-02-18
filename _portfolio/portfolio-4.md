@@ -1,6 +1,6 @@
 ---
 title: "Sound Design"
-excerpt: "I like making weird sounds with weird synths <img src='images/Synth.gif'> "
+excerpt: "<img src='images/Synth.gif'> "
 collection: portfolio
 ---
 

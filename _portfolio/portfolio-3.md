@@ -1,6 +1,6 @@
 ---
 title: "Audio Spatialisation"
-excerpt: "Developed audio spatialiser for AR devices <img src='images/test_participant_perspective.png'> "
+excerpt: "<img src='images/test_participant_perspective.png'> "
 collection: portfolio
 ---
 

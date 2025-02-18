@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning"
-excerpt: "Developed system for material recognition in Virtual Environments <img src='images/pipeline-diagram.jpg'> "
+excerpt: "<img src='images/pipeline-diagram.jpg'> "
 collection: portfolio
 ---
 

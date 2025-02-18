@@ -1,6 +1,6 @@
 ---
 title: "Audio Programming"
-excerpt: "Acoustic rendering and audio spatialisation <img src='images/rendering.gif'> "
+excerpt: "<img src='images/rendering.gif'> "
 collection: portfolio
 ---
 
