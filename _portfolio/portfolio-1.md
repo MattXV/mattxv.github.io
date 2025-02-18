@@ -14,7 +14,7 @@ collection: portfolio
 
 --- 
 
-![Project Acoustics](../../images/DMT_Acoustics.png)
+![Project Acoustics](../../images/p-acoustics.png)
 
 ![Real Soundfield Measurement](../../images/soundfield-measurement.jpg)
 
